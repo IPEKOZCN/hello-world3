@@ -1,2 +1,2 @@
 # hello-world3
-hi humans
+hello world
